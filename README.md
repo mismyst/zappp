@@ -5,11 +5,4 @@ A full fledged Swiggy for the college campus with real time delivery updates and
 
 If you are a person who buys Snacks and Drinks to your frds 
 
-or did u get a last minute call from your frd to buy some snacks on the way to class 
-
-# Dont wory !! use Zapp 
-
-## available in playstore by end of july !!! 
-
-
-## exclusive for SRM STUDENTS 
+or did u get a last minute call from your frd to buy some snacks on the way to class 
